@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: image.slider
+---
+testFramework: junit
+sourceLanguage: java
